@@ -12,6 +12,10 @@ hydra-core = "^1.1.1"
 pytesseract = "^0.3.10"
 imutils = "^0.5.4"
 opencv-python = "^4.9.0.80"
+easyocr = "^1.7.1"
+jupyterlab = "^4.1.6"
+matplotlib = "^3.8.4"
+nbstripout = "^0.7.1"
 
 [tool.poetry.dev-dependencies]
 pdoc3 = "^0.10.0"

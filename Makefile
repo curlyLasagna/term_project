@@ -1,9 +1,6 @@
 .PHONY: tests docs
 
 deps: 
-	@echo "Initializing Git..."
-	git init
-	
 	@echo "Installing dependencies..."
 	poetry install --no-root
 	poetry run pre-commit install
