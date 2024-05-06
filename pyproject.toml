@@ -16,6 +16,8 @@ easyocr = "^1.7.1"
 jupyterlab = "^4.1.6"
 matplotlib = "^3.8.4"
 nbstripout = "^0.7.1"
+flask = "^3.0.3"
+flask-restful = "^0.3.10"
 
 [tool.poetry.dev-dependencies]
 pdoc3 = "^0.10.0"

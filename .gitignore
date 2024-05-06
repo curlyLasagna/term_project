@@ -62,7 +62,6 @@ target/
 .env
 
 # Database
-*.db
 *.rdb
 
 # Pycharm
@@ -94,6 +93,3 @@ outputs
 
 # Data
 data/*/*
-
-# Notebooks
-notebooks/*
